@@ -19,6 +19,6 @@ pakai linepy sama akad nya saja.!
 # [LINE LIB API](https://github.com/Aprank/botwar)
 
 # SELALU MENDOAKAN INDONESIA MENJADI YANG TERBAIK
-*SALAM :: PRANKBOTS
-CREATOR BY::ACIL
-FROM BOGOR*
+*SALAM :: PRANKBOTS*
+*CREATOR BY::ACIL*
+*FROM BOGOR*
