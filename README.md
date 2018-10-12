@@ -5,3 +5,20 @@
 
 *LINE Messaging's private API*
 *Modifed by: PrankBot*
+
+# REQUEST TO OR MSG.TO
+*sob ini pakainya R ya jadi kayak contoh di bawah ini*
+``` 
+me.sendMessage(R, "teks")
+me.sendContact(R, "mid")
+```
+*dan intinya yang msg.to atau to itu ganti pakai R (KECUALI) op.param1 masih tetap*
+#### LIB API
+*SUPORT LIB*
+pakai linepy sama akad nya saja.!
+# [LINE LIB API](https://github.com/Aprank/botwar)
+
+# SELALU MENDOAKAN INDONESIA MENJADI YANG TERBAIK
+*SALAM :: PRANKBOTS
+CREATOR BY::ACIL
+FROM BOGOR*
