@@ -52,7 +52,7 @@ def bot(op):
                  key = ''
             if msg.toType == 0 or msg.toType == 1 or msg.toType == 2:
                 if msg.toType == 0:
-                    if D != me.profile.mid:
+                    if D != meMD:
                         to = D
                     else:
                         to = R
