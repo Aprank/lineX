@@ -7,6 +7,10 @@ me = LINE()
 me.log("TOKEN: " + str(me.authToken))
 channelToken = me.getChannelResult()
 channel = Channel(me, me.server.CHANNEL_ID['LINE_MUSIC'])
+oepoll = OEPoll(me)
+meProfile = me.getProfile()
+meSettings = me.getSettings()
+meMD = me.profile.mid
 def backupData():
     try:
         backup = set
